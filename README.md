@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz565" alt="ariz565" /></a> </p>
 
-- 🔭 I’m currently working on **FoodieFinds Website**
+- 🔭 I’m currently working on **GradNetwork**
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Programming Languages, Algorithms and Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
