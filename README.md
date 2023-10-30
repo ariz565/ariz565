@@ -1,8 +1,7 @@
-<p align='center>
- 
+
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width= />
 
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Ariz Aftab</h1>
