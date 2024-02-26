@@ -1,13 +1,12 @@
 
-##  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" />
+## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" />
 
 
 
 
 <h1 align="center">Hi , I'm Mohammad Ariz Aftab 👋</h1>
-## <h3 align="center">Computer Science Enthusiast</h3>
+<!-- ## <h3 align="center">Computer Science Enthusiast</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3)](https://git.io/typing-svg)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
 
