@@ -41,6 +41,64 @@
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
+<br>   
+    
+- **Front-End Development**:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
+  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
+  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
+  <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge">
+  <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge">
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
+</div>
+
+
+<br>
+
+- **Back-End Development**:
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+<br>
+
+- **DataBase**:
+
+<p align="center">
+    <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    <img src="https://img.shields.io/badge/AppWrite-%230057D9.svg?style=for-the-badge&logo=appwrite" alt="AppWrite">
+</p>
+
+
+<br>
+
+- **Containerization**:
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+
+<br>
+
+- **Cloud Hosting**:
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+    
+<br>
+
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz565" alt="ariz565" /></a> </p>
