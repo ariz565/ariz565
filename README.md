@@ -25,7 +25,7 @@
 - Passionate about learning new technologies and building projects...
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -122,6 +122,8 @@
 
 <!-- Github Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ariz565&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariz565&show_icons=true&locale=en&layout=compact" alt="ariz565" />
 
 
 </div>
