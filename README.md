@@ -124,8 +124,21 @@
 
 <div align="center">
 
-[![Saurav Pant GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![ GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<!-- Github Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ariz565&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
+
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+<br>
+
+<br>
 
 
 
