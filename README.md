@@ -1,5 +1,5 @@
 
-## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" />
+ <!-- ## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" /> -->
 
 
 
@@ -10,6 +10,8 @@
 <p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
 </p>
+
+ <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
