@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-    <img src="https://img.shields.io/badge/AppWrite-%230057D9.svg?style=for-the-badge&logo=appwrite" alt="AppWrite">
+    <img src="https://img.shields.io/badge/Postgre-%230057D9.svg?style=for-the-badge&logo=postgre" alt="Postgre">
 </p>
 
 
@@ -97,6 +97,8 @@
 </p>
 
     
+<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 
