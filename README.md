@@ -123,6 +123,8 @@
 <!-- Github Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ariz565&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariz565&show_icons=true&locale=en&layout=compact" alt="ariz565" />
 
 
