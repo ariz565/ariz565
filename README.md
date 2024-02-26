@@ -133,6 +133,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
 ## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 
 
@@ -146,13 +149,4 @@
 - 💬 Ask me about **Programming Languages, Algorithms and Data Structures**
 
 <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariz565&show_icons=true&locale=en&layout=compact" alt="ariz565" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&locale=en" alt="ariz565" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariz565&" alt="ariz565" /></p>
