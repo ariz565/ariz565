@@ -10,12 +10,26 @@
 <p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
 </p>
-
- <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
-
-
+<!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
 
+ <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
+ <picture> <img align="right" src="./Right_Side.gif" width = 250px></picture>
+
+ <br>
+
+- Full-Stack Developer
+- I’m currently working on **GradNetwork**
+- Open Source Contributor/Maintainer
+- Experienced in MERN Stack
+- Passionate about learning new technologies and building projects...
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz565" alt="ariz565" /></a> </p>
 
 - 🔭 I’m currently working on **GradNetwork**
@@ -24,7 +38,7 @@
 
 - 💬 Ask me about **Programming Languages, Algorithms and Data Structures**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
