@@ -118,6 +118,13 @@
 
 
 <br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+[![Saurav Pant GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
