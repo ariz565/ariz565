@@ -13,12 +13,8 @@
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
 
-<div style="display:flex; align-items:center;">
-  <img src="./about_me.gif" width="50px" alt="About Me Icon"> 
-  <span style="font-weight:bold;">About me</span>
-</div>
 
- <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
+ <picture> <img src = "./about_me.gif" width = 50px> </picture> <b> About me </b>
  
  <picture> <img align="right" src="./Right_Side.gif" width = 300px></picture>
 
