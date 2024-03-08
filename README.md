@@ -14,8 +14,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
 
 
- <picture> <img src = "./about_me.gif" width = 50px> </picture> <b> About me </b>
-
 <div style="display: flex; align-items: center;">
   <picture>
     <img src="./about_me.gif" width="50px">
