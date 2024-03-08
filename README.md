@@ -122,7 +122,7 @@
 
 <div align="center">
  <p>
-  <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghazalazameer&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
+  <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariz565&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariz565theme=radical&hide_border=false)
