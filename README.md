@@ -23,19 +23,18 @@
 
 
 
-<div class="profile-section">  <picture>
-        <img src="./Right_Side.gif" width="300px"> 
-    </picture>
+<img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
+</picture>
 
-    <div class="text-content"> <ul>
-           <li>Full-Stack Developer</li>
-           <li>I’m currently working on <b>GradNetwork</b></li>
-           <li>Open Source Contributor/Maintainer</li>
-           <li>Experienced in MERN Stack</li>
-           <li>Passionate about learning new technologies and building projects...</li>
-        </ul>
-     </div>
-</div>
+
+
+ <br>
+
+- Full-Stack Developer
+- I’m currently working on **GradNetwork**
+- Open Source Contributor/Maintainer
+- Experienced in MERN Stack
+- Passionate about learning new technologies and building projects...
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
