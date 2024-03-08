@@ -14,11 +14,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
 
 
-<div style="display: flex; align-items: center;"> 
+<div style="display: flex; align-items: center;">
   <picture>
-    <img src="./about_me.gif" width="50px"> 
+    <img src="./about_me.gif" width="50px">
   </picture>
-  <b style="margin-left: 10px;">About me</b> 
+  <b style="margin-left: 10px;">About me</b>
 </div>
 
 
