@@ -16,7 +16,7 @@
 
 <div style="display: flex; align-items: center;">
   <picture>
-    <img src="./about_me.gif" width="50px">
+    <img src="./about_me.gif" width="40px">
   </picture>
   <b style="margin-left: 10px;">About me</b>
 </div>
