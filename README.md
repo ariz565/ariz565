@@ -17,7 +17,7 @@
  <picture> <img src = "./about_me.gif" width = 50px> </picture> <b> About me </b>
  
 <picture>
-  <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: 50px;">
+  <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: 20px;">
 </picture>
 
 
