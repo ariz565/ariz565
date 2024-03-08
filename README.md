@@ -26,7 +26,7 @@
 
  
 <picture>
-  <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -100px;">
+  <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: 100px;">
 </picture>
 
 
