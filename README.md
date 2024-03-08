@@ -15,6 +15,17 @@
 
 
  <picture> <img src = "./about_me.gif" width = 50px> </picture> <b> About me </b>
+
+<div style="display: flex; align-items: center;">
+  <picture>
+    <img src="./about_me.gif" width="50px">
+  </picture>
+  <b style="margin-left: 10px;">About me</b>
+</div>
+
+
+
+
  
 <picture>
   <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -100px;">
