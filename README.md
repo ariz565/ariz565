@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
 </p>
 <!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariz565&label=Profile%20views&color=0e75b6&style=flat" alt="ariz565" /> </p>
+<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=ariz565&label=Visitor%20Count&countColor=%23263759"> </p>
 
 
 <div style="display: flex; align-items: center;">
