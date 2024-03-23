@@ -13,15 +13,15 @@
 <!-- Profile views -->
 <p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=ariz565&label=Visitor%20Count&countColor=%23263759"> </p>
 
-
+<!--
 <div style="display: flex; align-items: center;">
   <picture>
     <img src="./about_me.gif" width="50px">
   </picture>
   <b style="margin-left: 10px;">About me</b>
 </div>
-
-
+-->
+# 💫 About Me:
 
 
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
