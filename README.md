@@ -27,10 +27,6 @@
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
 </picture>
 
-
-
- <br>
-
 ## Software Engineer Intern | Open Source Enthusiast
 
 - **Current Position:** Software Engineer Intern, gaining hands-on experience and contributing to impactful projects.
@@ -40,6 +36,7 @@
 - **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
   
 - **Technical Exposure:** Proficient in the MERN Stack (MongoDB, Express.js, React.js, Node.js), with a keen interest in exploring and mastering new technologies.
+- **Continuous Learning:** Driven by a passion for technological advancement, constantly exploring new technologies and methodologies to stay ahead of the curve.
 
 
 
