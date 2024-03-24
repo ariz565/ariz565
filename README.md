@@ -31,7 +31,7 @@
 
 - **Current Position:** Software Engineer Intern, gaining hands-on experience and contributing to impactful projects.
   
-- **Project Focus:** Actively involved in GradNetwork development, playing a crucial role in its enhancement and deployment.
+- **Project Contributions:** Actively refactoring core modules within **GradNetwork** to enhance scalability and efficiency.
   
 - **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
   
