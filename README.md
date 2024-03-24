@@ -31,11 +31,16 @@
 
  <br>
 
-- Full-Stack Developer
-- I’m currently working on **GradNetwork**
-- Open Source Contributor/Maintainer
-- Experienced in MERN Stack
-- Passionate about learning new technologies and building projects...
+## Software Engineer Intern | Open Source Enthusiast
+
+- **Current Position:** Software Engineer Intern, gaining hands-on experience and contributing to impactful projects.
+  
+- **Project Focus:** Actively involved in GradNetwork development, playing a crucial role in its enhancement and deployment.
+  
+- **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
+  
+- **Technical Exposure:** Proficient in the MERN Stack (MongoDB, Express.js, React.js, Node.js), with a keen interest in exploring and mastering new technologies.
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
