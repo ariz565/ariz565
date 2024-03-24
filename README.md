@@ -29,13 +29,13 @@
 
 ## Software Engineer Intern | Open Source Enthusiast
 
-- **Current Position:** Software Engineer Intern, gaining hands-on experience and contributing to impactful projects.
+- **Current Role:** Software Engineer Intern, focused on developing new features and optimizing performance.
   
 - **Project Contributions:** Actively refactoring core modules within **GradNetwork** to enhance scalability and efficiency.
   
 - **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
   
-- **Technical Exposure:** Proficient in the MERN Stack (MongoDB, Express.js, React.js, Node.js), with a keen interest in exploring and mastering new technologies.
+- **Technical Exposure:** Proficient in the MERN stack, experienced with API development, and proficient in Git for version control.
 - **Continuous Learning:** Driven by a passion for technological advancement, constantly exploring new technologies and methodologies to stay ahead of the curve.
 
 
