@@ -31,7 +31,7 @@
 
 - **Current Role:** Software Engineer Intern, focused on developing new features and optimizing performance.
   
-- **Project Contributions:** Actively refactoring core modules within **GradNetwork** to enhance scalability and efficiency.
+- **Project Contributions:** Actively refactoring core modules within **SwiftCart** to enhance scalability and efficiency.
   
 - **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
   
