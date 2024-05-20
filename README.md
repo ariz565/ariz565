@@ -29,13 +29,14 @@
 
 ## Software Engineer Intern | Open Source Enthusiast
 
-- **Current Role:** Software Engineer Intern, focused on developing new features and optimizing performance.
+- **Current Role:** Software Engineer Intern, crafting high-performance computing solutions and optimizing system architectures.
   
 - **Project Contributions:** Actively refactoring core modules within **SwiftCart** to enhance scalability and efficiency.
   
-- **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills and give back to the community.
-  
-- **Technical Exposure:** Proficient in the MERN stack, experienced with API development, and proficient in Git for version control.
+- **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills.
+- 
+- **Tech Stack:** I work with React, Next.js, TypeScript, and AWS. I also have experience with Flask and Django for backend development and use Git for version control.
+- 
 - **Continuous Learning:** Driven by a passion for technological advancement, constantly exploring new technologies and methodologies to stay ahead of the curve.
 
 
