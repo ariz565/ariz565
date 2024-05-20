@@ -34,9 +34,9 @@
 - **Project Contributions:** Actively refactoring core modules within **SwiftCart** to enhance scalability and efficiency.
   
 - **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills.
-- 
+  
 - **Tech Stack:** I work with React, Next.js, TypeScript, and AWS. I also have experience with Flask and Django for backend development and use Git for version control.
-- 
+ 
 - **Continuous Learning:** Driven by a passion for technological advancement, constantly exploring new technologies and methodologies to stay ahead of the curve.
 
 
