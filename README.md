@@ -10,7 +10,6 @@
 </p>
 <!-- Profile views -->
 <p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=ariz565&label=Visitor%20Count&countColor=%23263759"> </p>
-
 <!--
 <div style="display: flex; align-items: center;">
   <picture>
