@@ -18,13 +18,13 @@
 </div>
 -->
 
-#💫 About Me:
+# 💫 About Me:
 
 
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
 </picture>
 
-## Software Engineer Intern | Open Source Enthusiast
+## Software Engineer | Open Source Enthusiast
 
 - **Current Role:** Software Engineer Intern, crafting high-performance computing solutions and optimizing system architectures.
   
