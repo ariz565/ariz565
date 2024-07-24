@@ -17,7 +17,8 @@
   <b style="margin-left: 10px;">About me</b>
 </div>
 -->
-💫 About Me:
+
+#💫 About Me:
 
 
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
