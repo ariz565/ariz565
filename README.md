@@ -26,7 +26,7 @@
 
 ## Software Engineer | Open Source Enthusiast
 
-- **Current Role:** Software Engineer Intern, crafting high-performance computing solutions and optimizing system architectures.
+- **Current Role:** Software Engineer, crafting high-performance computing solutions and optimizing system architectures.
   
 - **Project Contributions:** Actively refactoring core modules within **SwiftCart** to enhance scalability and efficiency.
   
