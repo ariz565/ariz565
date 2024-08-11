@@ -82,7 +82,7 @@
 
 <br>
 
-- **DataBase**:
+- **Database**:
 
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
