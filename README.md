@@ -56,7 +56,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Front-end Development**:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
@@ -71,7 +71,7 @@
 
 <br>
 
-- **Back-End Development**:
+- **Back-end Development**:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -82,7 +82,7 @@
 
 <br>
 
-- **Database**:
+- **Databases**:
 
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -121,6 +121,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+ <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </p>
 
 <br>
