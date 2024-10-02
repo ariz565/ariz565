@@ -34,7 +34,6 @@
   
 - **Tech Stack:** I work with React, Next.js, TypeScript, and AWS. I also have experience with Flask and Django for backend development and use Git for version control.
  
-- **Continuous Learning:** Driven by a passion for technological advancement, constantly exploring new technologies and methodologies to stay ahead of the curve.
 
 
 
