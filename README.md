@@ -24,7 +24,7 @@
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
 </picture>
 
-## 👨‍💻 Software Engineer | Backend Architecture | HPC & GenAI | Cloud-Native Systems
+👨‍💻 Software Engineer | Backend Systems Architect | HPC · LLMs · AWS
 
 - **Experience:** 2+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
 
