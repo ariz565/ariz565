@@ -24,17 +24,27 @@
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
 </picture>
 
-## Software Engineer | Open Source Enthusiast
+## 👨‍💻 Software Engineer | Backend Architecture | HPC & GenAI | Cloud-Native Systems
 
-- **Current Role:** Software Engineer, crafting high-performance computing solutions and optimizing system architectures.
-  
-- **Project Contributions:** Actively refactoring core modules within **SwiftCart** to enhance scalability and efficiency.
-  
-- **Open Source Passion:** Enthusiastic contributor to open-source projects, leveraging internships to further develop skills.
-  
-- **Tech Stack:** I work with React, Next.js, TypeScript, and AWS. I also have experience with Flask and Django for backend development and use Git for version control.
- 
+- **Experience:** 2+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
 
+- **What I Do:**  
+  I architect and implement distributed systems that **spin up and manage cloud-based HPC clusters**, orchestrate **compute environments**, and automate **intelligent workflows** using large language models.
+
+- **Key Focus Areas:**
+  - Designing modular backend services for **multi-tenant, role-based compute platforms**
+  - Building APIs for job lifecycle management, cluster provisioning, and real-time monitoring (e.g., via Slurm, DCV, Shell)
+  - Architecting AI-driven pipelines for **document parsing**, **validation**, and **LLM inference**
+  - Developing cross-account AWS integrations for usage analytics, billing, and reporting
+
+- **Currently Exploring:**  
+  Autonomous agents that integrate with meetings to generate context-aware notes, file Jira tickets, and send follow-up emails with zero manual effort.
+
+- **Tech Stack:**  
+  Python · TypeScript · Flask · Django · React · Next.js  
+  AWS (EC2, Lambda, DynamoDB, S3, Bedrock) · Docker · GitHub Actions · REST APIs · IAM · CI/CD
+
+---
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
