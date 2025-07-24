@@ -31,18 +31,19 @@
 - **What I Do:**  
   I architect and implement distributed systems that **spin up and manage cloud-based HPC clusters**, orchestrate **compute environments**, and automate **intelligent workflows** using large language models.
 
-- **Key Focus Areas:**
-  - Designing modular backend services for **multi-tenant, role-based compute platforms**
-  - Building APIs for job lifecycle management, cluster provisioning, and real-time monitoring (e.g., via Slurm, DCV, Shell)
-  - Architecting AI-driven pipelines for **document parsing**, **validation**, and **LLM inference**
-  - Developing cross-account AWS integrations for usage analytics, billing, and reporting
+- **Featured Work:**
+  - Architected a multi-tenant HPC environment on AWS to **provision and orchestrate on-demand HPC clusters**. Includes real-time job monitoring and cluster lifecycle management.
+  - Designed a backend system powered by **RAG and LLMs** to automate **data extraction, field validation, and summarization** from structured and unstructured documents.
+  - Developed a cross-account AWS cost monitoring solution that **aggregates billing data**, and supports **budget tracking, tagging, and reporting** for cost optimization.
+  - Engineered a high-performance, SEO-optimized e-commerce platform using Next.js (SSR/SSG), with Redis caching, a recommendation engine, and secure order workflows powered by Razorpay and Cloudinary.
+
 
 - **Currently Exploring:**  
   Autonomous agents that integrate with meetings to generate context-aware notes, file Jira tickets, and send follow-up emails with zero manual effort.
 
 - **Tech Stack:**  
-  Python · TypeScript · Flask · Django · React · Next.js  
-  AWS (EC2, Lambda, DynamoDB, S3, Bedrock) · Docker · GitHub Actions · REST APIs · IAM · CI/CD
+  Python · Flask · Node.js · Spring Boot · React · Next.js  
+  AWS (EC2, Lambda, DynamoDB, S3, Bedrock, CloudFormation, ECS, ECR) · Docker · GitHub Actions · REST APIs · IAM · CI/CD
 
 ---
 
