@@ -26,7 +26,7 @@
 
 👨‍💻 Software Engineer | Backend Systems Architect | HPC · LLMs · AWS
 
-- **Experience:** 2+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
+- **Experience:** 3+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
 
 - **What I Do:**  
   I architect and implement distributed systems that **spin up and manage cloud-based HPC clusters**, orchestrate **compute environments**, and automate **intelligent workflows** using large language models.
