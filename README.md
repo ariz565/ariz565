@@ -24,7 +24,7 @@
 <img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
 </picture>
 
-👨‍💻 Software Engineer | Building AI workflows and Event driven backend systems | HPC · LLMs · Agentic AI · MLOps
+👨‍💻 AI Engineer | Building AI workflows and Event driven backend systems | HPC · LLMs · Agentic AI · MLOps
 
 - **Experience:** 3+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
 
