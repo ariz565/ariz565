@@ -78,7 +78,143 @@ It's deciding:
 > **what the agent is allowed to do, what state it should remember, when it should stop, and how the system recovers when something fails halfway through.**
 
 ---
+# Tech Stack
 
+## AI / LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-172554?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evaluation-0F172A?style=for-the-badge" />
+</p>
+
+`LLMs` · `Agentic AI` · `RAG` · `Fine-Tuning` · `SFT` · `LoRA` · `QLoRA` · `PEFT` · `Structured Outputs` · `Tool Calling` · `Context Engineering` · `Synthetic Data` · `AI Evals`
+
+---
+
+## Agent Engineering
+
+`Long-Horizon Agents` · `Agent Harnesses` · `State Machines` · `Graph Workflows` · `Planning / Execution Loops` · `Supervisor / Worker Patterns` · `Multi-Agent Systems` · `Human-in-the-Loop` · `Checkpointing` · `Retries` · `Durable Execution` · `Tool Governance`
+
+---
+
+## Inference Engineering
+
+`vLLM` · `TensorRT-LLM` · `NVIDIA Triton` · `Continuous Batching` · `PagedAttention` · `KV Cache` · `Prefix Caching` · `Chunked Prefill` · `Speculative Decoding` · `Quantization` · `Tensor Parallelism` · `Pipeline Parallelism` · `Distributed Inference`
+
+Focus areas:
+
+`TTFT` · `TPOT` · `Throughput` · `Latency` · `GPU Utilization` · `Memory Efficiency` · `Cost per Request`
+
+---
+
+## MLOps / LLMOps
+
+`Model Serving` · `Model Registry` · `Experiment Tracking` · `Dataset Versioning` · `Prompt Versioning` · `Evaluation Pipelines` · `Model Monitoring` · `Tracing` · `Observability` · `A/B Testing` · `Regression Testing` · `CI/CD for AI`
+
+---
+
+## Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+`PyTorch` · `Transformers` · `Hugging Face` · `Tokenizers` · `Embeddings` · `Model Adaptation` · `Training Pipelines` · `Distributed Training`
+
+---
+
+## RAG & Knowledge Systems
+
+`Vector Search` · `Embeddings` · `Hybrid Search` · `Semantic Retrieval` · `Metadata Filtering` · `Reranking` · `Query Rewriting` · `Context Assembly` · `Grounded Generation` · `Retrieval Evaluation`
+
+---
+
+## Cloud & AI Infrastructure
+
+### AWS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+`EC2` · `ECS` · `ECR` · `Lambda` · `S3` · `DynamoDB` · `IAM` · `CloudFormation` · `Bedrock` · `CloudWatch`
+
+### Azure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+`Azure AI` · `Azure OpenAI` · `Compute` · `Storage` · `Identity` · `Monitoring` · `Event-Driven Workloads`
+
+---
+
+## HPC & Distributed Compute
+
+`HPC` · `GPU Workloads` · `Cluster Provisioning` · `Job Scheduling` · `Distributed Compute` · `Multi-Node Workloads` · `Resource Orchestration` · `Compute Lifecycle Management` · `Multi-Tenant Infrastructure`
+
+---
+
+## Event-Driven Systems
+
+`Event-Driven Architecture` · `Async Workflows` · `Queues` · `Workers` · `Retries` · `Dead-Letter Queues` · `Idempotency` · `Backpressure` · `Event Schemas` · `Distributed State`
+
+---
+
+## Responsible AI & Governance
+
+`AI Governance` · `Responsible AI` · `PHI / PII Protection` · `Data Redaction` · `Audit Logging` · `Data Lineage` · `Model Traceability` · `Human Approval` · `Least-Privilege Access` · `Policy Enforcement` · `Prompt-Injection Defenses`
+
+---
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+`Python` · `Java` · `JavaScript` · `TypeScript`
+
+---
+
+## Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,spring" />
+</p>
+
+`FastAPI` · `Flask` · `Django` · `Node.js` · `Spring Boot` · `REST APIs` · `Async APIs` · `Microservices`
+
+---
+
+## Data & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Vector Databases` · `Object Storage`
+
+---
+
+## DevOps / Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" />
+</p>
+
+`Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code` · `Monitoring` · `Logging`
+
+---
+
+## Domains
+
+`Healthcare AI` · `FinTech AI` · `Regulated AI Systems` · `PHI / PII-Aware Workflows`
+
+---
 ## Long-Horizon Agents
 
 Long-running agents introduce a different set of engineering problems than normal LLM applications.
