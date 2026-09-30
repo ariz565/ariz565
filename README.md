@@ -2,13 +2,13 @@
 
 # Mohammad Ariz Aftab
 
-### AI Engineer · Distributed Systems · LLMs · Agentic AI · HPC · Cloud
+### Senior AI Engineer · Agentic Systems · LLM Inference · MLOps · HPC
 
 <br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Building+AI+systems+that+solve+useful+problems;Working+across+LLMs%2C+HPC+and+cloud+infrastructure;Designing+systems+from+backend+to+deployment;Always+learning%2C+building+and+improving"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+systems+beyond+the+model;Agentic+AI+%C2%B7+Inference+%C2%B7+Fine-Tuning+%C2%B7+MLOps;HPC+%C2%B7+Event-Driven+Systems+%C2%B7+Cloud;Healthcare+AI+%C2%B7+FinTech+AI"
     alt="Typing SVG"
   />
 </a>
@@ -26,366 +26,750 @@
 
 > **“I like building systems where software, infrastructure and AI come together.”**
 
-I'm an **AI Engineer with 3+ years of experience** working across backend engineering, cloud infrastructure, HPC and LLM-based applications.
+I'm a **Senior AI Engineer with 3+ years of engineering experience**, working across LLM systems, agentic AI, model inference, fine-tuning, MLOps, HPC and distributed backend systems.
 
-Most of my work has involved taking an idea, understanding how the pieces should fit together, and building the backend and infrastructure around it.
+My work has increasingly moved toward the parts of AI systems that become difficult once you move beyond a prototype:
 
-I've worked on systems for:
+- **Agentic AI and long-horizon execution**
+- **LLM inference and serving**
+- **Fine-tuning and model adaptation**
+- **MLOps / LLMOps**
+- **AI evaluation and observability**
+- **Event-driven AI backends**
+- **Distributed GPU and HPC workloads**
+- **AI governance and responsible AI**
+- **Healthcare AI and FinTech AI**
+- **PHI / PII-aware AI workflows**
+- **AWS and Azure AI infrastructure**
 
-- Cloud-based HPC cluster provisioning
-- LLM and RAG workflows
-- Document extraction and validation
-- Event-driven backend services
-- AWS automation
-- Cost monitoring across AWS accounts
-- Full-stack and e-commerce platforms
-
-I enjoy problems where there is more going on than just writing an API or calling a model.
-
-The interesting part for me is usually figuring out how the **backend, infrastructure, data, AI and user workflow** should work together.
-
----
-
-## What I Work On
-
-### AI & LLM Systems
-
-A lot of my recent work has been around LLM-based applications and automation.
-
-I've worked on:
-
-- Retrieval-Augmented Generation (**RAG**)
-- Document data extraction
-- Field validation
-- Summarization workflows
-- Prompt and context handling
-- AWS Bedrock integrations
-- AI-powered backend APIs
-- Agent-style workflows
-- Human approval steps inside automated processes
-
-I usually think of the model as one part of the system.
-
-The bigger challenge is deciding what happens **before the model, after the model, and when the model gets something wrong**.
+I enjoy working close to the boundary between **models, distributed systems and infrastructure** — where model behavior, latency, GPU utilization, state, data privacy, failure recovery and system design all start affecting each other.
 
 ---
 
-### Backend & Distributed Systems
+# What I Work On
 
-Backend engineering has been a major part of my work.
+## Agentic AI Systems
 
-I've built and worked with:
+A large part of my current interest is in agents that do more than execute a single prompt → response cycle.
 
-- Event-driven architectures
-- REST APIs
-- Async workflows
-- Background jobs
-- Multi-service applications
-- Authentication and authorization
-- Multi-tenant systems
-- Cloud resource orchestration
-- Compute lifecycle management
+I work with patterns around:
 
-I enjoy designing systems where responsibilities are clear and each service has a reason to exist.
+- Long-horizon agent execution
+- Tool calling and tool orchestration
+- Agent harness design
+- State machines
+- Graph-based workflows
+- Conditional routing
+- Planning and execution loops
+- Supervisor / worker architectures
+- Multi-agent coordination
+- Human-in-the-loop approvals
+- Checkpointing and resumability
+- Retry and recovery strategies
+- Agent state persistence
+- Context management
+- Structured outputs
+- Tool permission boundaries
 
----
+The hard part usually isn't giving an agent access to tools.
 
-### High-Performance Computing
+It's deciding:
 
-One of the more interesting areas I've worked in is **cloud HPC**.
-
-I helped build a multi-tenant system that can provision and manage HPC environments on AWS.
-
-The work included:
-
-- Creating HPC clusters on demand
-- Managing cluster lifecycle
-- Orchestrating compute environments
-- Tracking running jobs
-- Supporting multiple users and environments
-- Automating infrastructure creation and cleanup
-
-A lot of the challenge was making complicated cloud infrastructure easier to manage from the application layer.
+> **what the agent is allowed to do, what state it should remember, when it should stop, and how the system recovers when something fails halfway through.**
 
 ---
 
-## Selected Work
+## Long-Horizon Agents
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Long-running agents introduce a different set of engineering problems than normal LLM applications.
 
-### Cloud HPC Platform
+I think about things like:
 
-Worked on a **multi-tenant HPC platform on AWS** that could create and manage compute clusters when needed.
+```text
+Goal
+  ↓
+Planner
+  ↓
+State
+  ↓
+Action
+  ↓
+Tool Execution
+  ↓
+Observation
+  ↓
+State Transition
+  ↓
+Evaluation
+  ↓
+Continue / Retry / Escalate / Stop
+```
 
-**What I worked on**
+Key areas include:
 
-- Cluster provisioning
-- Compute environment orchestration
-- Cluster lifecycle handling
-- Job monitoring
-- Multi-tenant architecture
-- AWS service integrations
+- Durable execution
+- State transitions
+- Intermediate checkpoints
+- Idempotent tool execution
+- Failure recovery
+- Context compression
+- Memory boundaries
+- Loop termination
+- Task decomposition
+- Execution budgets
+- Human escalation
+- Audit trails
 
-**Tech / Areas**
-
-`AWS` `HPC` `Distributed Systems` `Backend`
-
-</td>
-
-<td width="50%" valign="top">
-
-### LLM Document Processing
-
-Designed a backend workflow using **RAG and LLMs** to process structured and unstructured documents.
-
-**What it handled**
-
-- Data extraction
-- Field validation
-- Context retrieval
-- Summarization
-- API workflows
-- LLM orchestration
-
-**Tech / Areas**
-
-`Python` `LLMs` `RAG` `AWS Bedrock`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### AWS Cost Monitoring
-
-Built a cross-account AWS cost monitoring system to bring billing information from different accounts into one place.
-
-**What it included**
-
-- Cost aggregation
-- Budget tracking
-- Tag-based reporting
-- Cross-account access
-- Reporting workflows
-- Cost visibility
-
-**Tech / Areas**
-
-`AWS` `Cloud` `Automation` `FinOps`
-
-</td>
-
-<td width="50%" valign="top">
-
-### E-commerce Platform
-
-Built a performance-focused e-commerce application using **Next.js** with caching, recommendations and payment integrations.
-
-**What it included**
-
-- Next.js SSR / SSG
-- Redis caching
-- Product recommendation logic
-- Razorpay payments
-- Cloudinary integration
-- Order workflows
-- SEO improvements
-
-**Tech / Areas**
-
-`Next.js` `Redis` `Razorpay` `Cloudinary`
-
-</td>
-</tr>
-</table>
+This is where agent engineering starts looking a lot like **distributed systems engineering**.
 
 ---
 
-## What I'm Exploring Now
+## Graph & State-Machine Engineering
 
-I'm currently interested in building agents that can take part in day-to-day work instead of only answering questions.
+I prefer explicit control flow for complex agents rather than hiding everything inside one autonomous loop.
 
-One idea I'm exploring is a meeting assistant that can:
+I work with concepts such as:
 
 ```mermaid
 flowchart LR
-    A[Meeting] --> B[Agent]
-    B --> C[Understand Context]
-    C --> D[Generate Notes]
-    C --> E[Create Jira Tasks]
-    C --> F[Draft Follow-up Emails]
-    C --> G[Update Knowledge Base]
+    A[Input] --> B[Classify]
+    B --> C{Route}
+    C -->|Reason| D[Agent]
+    C -->|Retrieve| E[Knowledge]
+    C -->|Action| F[Tool]
+
+    D --> G[Validate]
+    E --> G
+    F --> G
+
+    G --> H{Valid?}
+
+    H -->|Yes| I[Commit State]
+    H -->|Retry| B
+    H -->|Escalate| J[Human Review]
+
+    I --> K[Next State]
 ```
 
-The part I find interesting is not just generating the notes.
+This gives the system clearer control over:
 
-It's figuring out:
+- branching
+- retries
+- loops
+- tool execution
+- approvals
+- terminal states
+- failure states
+- state persistence
 
-- What should happen automatically?
-- What should require approval?
-- How should context be carried between steps?
-- What happens if one tool call fails?
-- How do you stop the agent from doing too much?
-- How do you keep a clear history of what it changed?
-
-Those are the kinds of problems I'm spending more time on.
+I like keeping the **reasoning probabilistic and the control plane explicit**.
 
 ---
 
-# Tech Stack
+# LLM Inference Engineering
 
-## AI / LLM
+Inference is one of the AI engineering areas I find particularly interesting.
+
+Once models are serving real workloads, the conversation becomes less about simply “hosting an LLM” and more about:
+
+- **TTFT — Time to First Token**
+- **TPOT — Time per Output Token**
+- End-to-end latency
+- Throughput
+- GPU utilization
+- Memory pressure
+- Batch efficiency
+- Context length
+- Cost per request
+- Request scheduling
+
+Areas I work with and study include:
+
+- vLLM
+- TensorRT-LLM
+- Triton Inference Server
+- Continuous batching
+- Paged KV cache
+- Prefix caching
+- KV-cache reuse
+- Chunked prefill
+- Prefill / decode separation
+- Speculative decoding
+- Quantization
+- Tensor parallelism
+- Pipeline parallelism
+- Expert parallelism
+- Context parallelism
+- Distributed inference
+- Multi-GPU serving
+- Autoscaling inference workloads
+- GPU memory utilization
+
+For me, inference engineering is essentially:
+
+> **How much useful model work can we get from the available compute without destroying latency or cost?**
+
+---
+
+# Fine-Tuning & Model Adaptation
+
+Not every problem needs a larger model.
+
+Sometimes the better answer is improving how a smaller or specialized model behaves for a particular task.
+
+My interests around model adaptation include:
+
+- Supervised Fine-Tuning (**SFT**)
+- LoRA
+- QLoRA
+- PEFT
+- Instruction tuning
+- Domain adaptation
+- Dataset preparation
+- Training-data quality
+- Synthetic data generation
+- Evaluation dataset design
+- Model comparison
+- Hyperparameter experimentation
+- Fine-tuning pipelines
+- Checkpoint management
+- Experiment tracking
+
+I think the important question isn't:
+
+> “Can we fine-tune this model?”
+
+It is:
+
+> **“Will fine-tuning materially improve this task compared with prompting, retrieval, tools or better system design?”**
+
+---
+
+# RAG & Knowledge Systems
+
+I work with retrieval systems as an engineering problem rather than treating RAG as just:
+
+```text
+embed → retrieve → prompt
+```
+
+The full system involves:
+
+- Document ingestion
+- Parsing
+- Chunking strategies
+- Metadata design
+- Embeddings
+- Vector search
+- Hybrid retrieval
+- Semantic retrieval
+- Metadata filtering
+- Reranking
+- Context assembly
+- Query rewriting
+- Context compression
+- Citation / provenance tracking
+- Grounded generation
+- Retrieval evaluation
+
+And most importantly:
+
+**measuring whether retrieval actually helped the final task.**
+
+---
+
+# AI Evaluation
+
+Evals are becoming one of the most important pieces of my AI engineering work.
+
+I care about measuring systems at multiple levels.
+
+### Model
+
+- Output quality
+- Structured-output correctness
+- Instruction following
+- Domain-specific accuracy
+
+### Retrieval
+
+- Recall
+- Precision
+- Ranking quality
+- Context relevance
+- Groundedness
+
+### Agents
+
+- Task completion
+- Tool selection
+- Tool-call correctness
+- State transitions
+- Number of steps
+- Recovery behavior
+- Loop behavior
+
+### System
+
+- Latency
+- Throughput
+- Token consumption
+- GPU utilization
+- Cost
+- Failure rate
+
+I prefer evaluations tied to **actual task outcomes** rather than relying only on generic benchmarks.
+
+---
+
+# MLOps / LLMOps
+
+Model behavior is only one part of an AI system.
+
+I also work around the lifecycle surrounding it:
+
+```text
+Data
+ ↓
+Training / Adaptation
+ ↓
+Evaluation
+ ↓
+Model Registry
+ ↓
+Deployment
+ ↓
+Inference
+ ↓
+Tracing
+ ↓
+Monitoring
+ ↓
+Feedback
+ ↓
+Evaluation
+ ↓
+Iteration
+```
+
+Areas include:
+
+- Model versioning
+- Dataset versioning
+- Experiment tracking
+- Fine-tuning pipelines
+- Model registry
+- CI/CD for AI workloads
+- Evaluation pipelines
+- Prompt versioning
+- Model routing
+- Inference monitoring
+- Cost monitoring
+- Drift / regression detection
+- Rollbacks
+- A/B testing
+- Observability
+- Trace analysis
+
+---
+
+# Event-Driven AI Systems
+
+A lot of AI workflows should not run inside a synchronous request.
+
+I work with architectures where AI tasks move through asynchronous pipelines:
+
+```mermaid
+flowchart LR
+    A[API / Event] --> B[Queue]
+    B --> C[Worker]
+    C --> D[AI / Model]
+    D --> E[Validation]
+    E --> F[Event]
+    F --> G[Downstream Service]
+```
+
+Examples include:
+
+- Document processing
+- Batch inference
+- Agent execution
+- Long-running workflows
+- Evaluation jobs
+- Model pipelines
+- Notification workflows
+- Human approval steps
+- GPU workloads
+
+Typical concerns include:
+
+- queues
+- workers
+- retries
+- dead-letter queues
+- idempotency
+- backpressure
+- event schemas
+- distributed state
+- observability
+- failure recovery
+
+---
+
+# High-Performance Computing
+
+I've worked on **cloud-based HPC infrastructure** where compute environments can be provisioned and managed programmatically.
+
+My work has involved:
+
+- On-demand cluster provisioning
+- Cluster lifecycle management
+- Job orchestration
+- Compute environment management
+- Multi-tenant environments
+- Job monitoring
+- Resource allocation
+- Infrastructure automation
+- Distributed compute workloads
+- AWS-based HPC systems
+
+HPC has also influenced how I think about AI infrastructure.
+
+Modern AI systems increasingly deal with the same underlying questions:
+
+```text
+Compute
+Memory
+Networking
+Scheduling
+Parallelism
+Utilization
+Faults
+Cost
+```
+
+---
+
+# Healthcare AI
+
+I've worked in **Healthcare AI**, where the engineering constraints are very different from building a general consumer AI application.
+
+The system has to account for sensitive data and clearly defined access boundaries.
+
+Areas I work around include:
+
+- PHI handling
+- PII detection
+- Data redaction
+- Data minimization
+- Role-based access
+- Audit logging
+- Secure model access
+- Controlled tool execution
+- Data lineage
+- Model traceability
+- Human review
+- Governance controls
+
+Healthcare AI taught me that model capability alone is rarely enough.
+
+**Data boundaries and system controls matter just as much.**
+
+---
+
+# FinTech AI
+
+I've also worked with AI systems in the **financial domain**, where traceability and control become first-class engineering concerns.
+
+I focus on concepts such as:
+
+- PII protection
+- Auditability
+- Explainable execution paths
+- Model validation
+- Human approval boundaries
+- Policy enforcement
+- Data lineage
+- Access controls
+- Deterministic validation
+- Model monitoring
+- Risk-aware workflows
+
+For regulated domains, I prefer designing systems where you can answer:
+
+```text
+What happened?
+Why did it happen?
+Which model was involved?
+Which data was used?
+Which tool was called?
+Who approved it?
+What changed?
+Can we reproduce it?
+```
+
+---
+
+# AI Governance & Responsible AI
+
+Agentic systems create a much larger action surface than standard chat applications.
+
+I care about building controls around:
+
+- Tool permissions
+- Least-privilege execution
+- Prompt-injection defenses
+- Data classification
+- PII / PHI boundaries
+- Input validation
+- Output validation
+- Model access policies
+- Human approvals
+- Audit trails
+- Model provenance
+- Dataset provenance
+- Policy enforcement
+- Agent action logging
+- Responsible AI controls
+
+I prefer treating governance as something implemented **inside the architecture**, not something added as documentation after the system is built.
+
+---
+
+# Cloud AI Infrastructure
+
+## AWS
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-172554?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-`LLMs` · `RAG` · `Agentic Workflows` · `Document Processing` · `AWS Bedrock`
+Working across:
+
+`EC2` · `ECS` · `ECR` · `Lambda` · `S3` · `DynamoDB` · `IAM` · `CloudFormation` · `Bedrock`
+
+Areas:
+
+`AI Infrastructure` · `HPC` · `Distributed Compute` · `Serverless` · `Event-Driven Systems` · `Model Integration`
+
+---
+
+## Azure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+Working across Azure for:
+
+- AI services
+- Cloud infrastructure
+- Model deployment
+- Compute
+- Storage
+- Identity
+- Event-driven systems
+- AI workload integration
+
+---
+
+# AI Engineering Stack
+
+## Models & Agentic AI
+
+`LLMs`  
+`Agentic AI`  
+`RAG`  
+`Tool Calling`  
+`Long-Horizon Agents`  
+`State Machines`  
+`Graph Workflows`  
+`Structured Outputs`  
+`Human-in-the-Loop`
+
+---
+
+## Model Adaptation
+
+`Fine-Tuning`  
+`SFT`  
+`LoRA`  
+`QLoRA`  
+`PEFT`  
+`Domain Adaptation`  
+`Synthetic Data`
+
+---
+
+## Inference
+
+`vLLM`  
+`TensorRT-LLM`  
+`Triton`  
+`Continuous Batching`  
+`KV Cache`  
+`Prefix Caching`  
+`Speculative Decoding`  
+`Quantization`  
+`Distributed Inference`
+
+---
+
+## AI Platform
+
+`MLOps`  
+`LLMOps`  
+`Model Serving`  
+`Evaluation`  
+`Tracing`  
+`Observability`  
+`Model Versioning`  
+`Experiment Tracking`
+
+---
+
+## Infrastructure
+
+`AWS`  
+`Azure`  
+`Docker`  
+`HPC`  
+`Distributed Systems`  
+`Event-Driven Architecture`  
+`GPU Compute`
 
 ---
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-`Python` · `Java` · `JavaScript` · `TypeScript`
+`Python` · `Java`
 
 ---
 
-## Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,spring" />
-</p>
-
-`Flask` · `Django` · `Node.js` · `Express.js` · `Spring Boot` · `REST APIs`
-
----
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-`React` · `Next.js` · `Tailwind CSS`
-
----
-
-## Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
-**AWS**
-
-`EC2` · `Lambda` · `DynamoDB` · `S3` · `Bedrock` · `ECS` · `ECR` · `CloudFormation` · `IAM`
-
-**Other**
-
-`Docker` · `HPC` · `Cloud Automation` · `Multi-account AWS`
-
----
-
-## Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
-</p>
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase` · `Redis`
-
----
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma" />
-</p>
-
-`Git` · `GitHub` · `GitHub Actions` · `Postman` · `Jira` · `VS Code`
-
----
-
-## How I Approach Engineering
-
-I usually think about a system in this order:
+# How I Think About AI Systems
 
 ```text
-Problem
-   ↓
-Users / Workflow
-   ↓
-Architecture
-   ↓
-Data
-   ↓
-Backend
-   ↓
-AI / LLM
-   ↓
-Infrastructure
-   ↓
-Monitoring
-   ↓
-Iteration
+                         ┌─────────────┐
+                         │   Product   │
+                         │   Problem   │
+                         └──────┬──────┘
+                                │
+                                ▼
+                      ┌──────────────────┐
+                      │ Data + Context   │
+                      └────────┬─────────┘
+                               │
+              ┌────────────────┼─────────────────┐
+              ▼                ▼                 ▼
+        ┌──────────┐     ┌──────────┐      ┌──────────┐
+        │ Retrieval│     │  Model   │      │  Tools   │
+        └─────┬────┘     └────┬─────┘      └────┬─────┘
+              │               │                 │
+              └───────────────┼─────────────────┘
+                              ▼
+                       ┌─────────────┐
+                       │ Agent /     │
+                       │ State Graph │
+                       └──────┬──────┘
+                              │
+                  ┌───────────┼────────────┐
+                  ▼           ▼            ▼
+               Evals      Governance    Events
+                  │           │            │
+                  └───────────┼────────────┘
+                              ▼
+                       ┌─────────────┐
+                       │ Inference & │
+                       │ Infrastructure
+                       └─────────────┘
 ```
 
-For AI projects especially, I try not to start with:
+The model is important.
 
-> “Which model should we use?”
-
-I prefer starting with:
-
-> “What problem are we actually trying to solve, and where does AI genuinely help?”
-
-That usually leads to better systems.
+But the model is only one component.
 
 ---
 
-## A Few Things I've Learned
+# Engineering Principles
 
 ```python
-engineering_notes = {
-    "architecture": "Simple systems are easier to understand and easier to change.",
-    "ai": "LLMs are useful, but they should not be trusted with everything.",
-    "cloud": "Automate infrastructure when the same manual step happens twice.",
-    "performance": "Measure first. Optimize second.",
-    "security": "Give every service only the access it actually needs.",
-    "backend": "Clear boundaries save a lot of pain later.",
-    "automation": "Automate repetitive work, not human judgment."
+ai_engineering = {
+    "agents": "Give autonomy clear boundaries.",
+    "state": "Make important state explicit and recoverable.",
+    "inference": "Optimize latency, throughput and cost together.",
+    "evals": "Measure the task, not just the model.",
+    "fine_tuning": "Adapt the model only when adaptation is the right tool.",
+    "rag": "Retrieval quality matters more than retrieval complexity.",
+    "privacy": "Sensitive data should have explicit boundaries.",
+    "governance": "Controls belong in the architecture.",
+    "distributed_systems": "Assume partial failures will happen.",
+    "cloud": "Compute should be observable, reproducible and measurable."
 }
 ```
 
 ---
 
-## Areas I'm Interested In
+# Areas I'm Deepening
 
 ```text
-01. LLM Applications
-02. RAG
-03. AI Agents
-04. Distributed Systems
-05. Event-Driven Architecture
-06. High-Performance Computing
-07. AWS
-08. Backend Engineering
-09. Infrastructure Automation
-10. AI Evaluation
+01. Agentic AI Systems
+02. Long-Horizon Agent Execution
+03. LLM Inference Engineering
+04. Fine-Tuning & Model Adaptation
+05. MLOps / LLMOps
+06. AI Evaluation
+07. Distributed GPU Inference
+08. HPC for AI
+09. Event-Driven AI Systems
+10. Responsible AI & Governance
+11. Healthcare AI
+12. FinTech AI
+13. AI Security
+14. AWS AI Infrastructure
+15. Azure AI Infrastructure
 ```
 
 ---
 
-## GitHub Stats
+# Currently
+
+```yaml
+working_on:
+  - agentic AI systems
+  - long-horizon workflows
+  - LLM inference
+  - event-driven AI backends
+  - healthcare AI
+  - fintech AI
+  - cloud AI infrastructure
+
+deepening:
+  - fine-tuning
+  - inference optimization
+  - evaluation engineering
+  - distributed inference
+  - agent state management
+  - AI governance
+
+thinking_about:
+  - TTFT and throughput
+  - GPU utilization
+  - KV-cache efficiency
+  - context engineering
+  - long-running agent state
+  - model and tool boundaries
+  - PHI / PII
+  - eval coverage
+  - cost per successful task
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -406,59 +790,24 @@ engineering_notes = {
   src="https://github-readme-streak-stats.herokuapp.com/?user=ariz565&theme=github-dark-blue&hide_border=true"
 />
 
-<br/>
-
-<img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariz565&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-/>
-
 </div>
-
----
-
-## Currently
-
-```yaml
-working_on:
-  - AI and LLM backend systems
-  - distributed applications
-  - cloud HPC platforms
-  - workflow automation
-
-exploring:
-  - meeting agents
-  - tool-using AI agents
-  - context management
-  - LLM evaluation
-  - event-driven AI workflows
-
-learning_more_about:
-  - system design
-  - AI reliability
-  - cloud cost
-  - observability
-  - distributed systems
-```
 
 ---
 
 <div align="center">
 
-### I enjoy building things, understanding how they work, and making them better.
+### Building AI systems from model behavior to distributed execution.
 
 <br/>
 
-**AI · Backend · HPC · Distributed Systems · AWS**
+**Agentic AI · Inference · Fine-Tuning · MLOps · HPC · Distributed Systems**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariz565)
+**Healthcare AI · FinTech AI · AWS · Azure**
 
 <br/><br/>
 
-<sub>
-Currently building at the intersection of AI, backend systems and cloud infrastructure.
-</sub>
+[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariz565)
 
 </div>
