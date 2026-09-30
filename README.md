@@ -22,19 +22,24 @@
 
 ---
 
-## About Me
+# About Me
 
 > **“I like building systems where software, infrastructure and AI come together.”**
 
-I'm a **Senior AI Engineer with 3+ years of engineering experience**, working across LLM systems, agentic AI, model inference, fine-tuning, MLOps, HPC and distributed backend systems.
+I'm a **Senior AI Engineer with 3+ years of engineering experience**, working across agentic systems, LLM inference, model adaptation, MLOps, HPC and distributed backend systems.
 
-My work has increasingly moved toward the parts of AI systems that become difficult once you move beyond a prototype:
+Most of my recent work has been around the engineering problems that appear once AI becomes part of a larger system — managing state, serving models efficiently, evaluating behavior, orchestrating long-running workflows, handling sensitive data, and connecting models to distributed infrastructure.
+
+I've worked across **Healthcare AI and FinTech AI**, where privacy, traceability, governance and predictable system behavior matter as much as model capability.
+
+My work spans:
 
 - **Agentic AI and long-horizon execution**
 - **LLM inference and serving**
 - **Fine-tuning and model adaptation**
 - **MLOps / LLMOps**
 - **AI evaluation and observability**
+- **RAG and knowledge systems**
 - **Event-driven AI backends**
 - **Distributed GPU and HPC workloads**
 - **AI governance and responsible AI**
@@ -42,42 +47,95 @@ My work has increasingly moved toward the parts of AI systems that become diffic
 - **PHI / PII-aware AI workflows**
 - **AWS and Azure AI infrastructure**
 
-I enjoy working close to the boundary between **models, distributed systems and infrastructure** — where model behavior, latency, GPU utilization, state, data privacy, failure recovery and system design all start affecting each other.
+I enjoy working where **models, distributed systems and infrastructure meet** — especially problems involving inference performance, agent state, event-driven execution, GPU compute, failure recovery and AI governance.
 
 ---
 
-# What I Work On
+# Selected Engineering Work
 
-## Agentic AI Systems
+## Agentic AI — Healthcare
 
-A large part of my current interest is in agents that do more than execute a single prompt → response cycle.
+Worked on agentic workflows around healthcare data with explicit controls for **PHI/PII handling, tool access, state management, auditability and human review**.
 
-I work with patterns around:
+Worked with long-running execution patterns where agents can maintain workflow state, invoke controlled tools, validate intermediate outputs, recover from failures and escalate sensitive decisions when needed.
 
-- Long-horizon agent execution
-- Tool calling and tool orchestration
-- Agent harness design
-- State machines
-- Graph-based workflows
-- Conditional routing
-- Planning and execution loops
-- Supervisor / worker architectures
-- Multi-agent coordination
+Areas include:
+
+- Agent orchestration
+- Tool execution boundaries
+- Long-horizon workflows
+- Stateful execution
 - Human-in-the-loop approvals
-- Checkpointing and resumability
-- Retry and recovery strategies
-- Agent state persistence
-- Context management
-- Structured outputs
-- Tool permission boundaries
-
-The hard part usually isn't giving an agent access to tools.
-
-It's deciding:
-
-> **what the agent is allowed to do, what state it should remember, when it should stop, and how the system recovers when something fails halfway through.**
+- PHI / PII controls
+- Data redaction
+- Audit logging
+- Workflow traceability
+- Controlled model access
+- Validation layers
+- Governance controls
 
 ---
+
+## AI Systems — FinTech
+
+Worked on AI workflows in financial-domain systems where **traceability, validation and controlled execution** are core engineering concerns.
+
+Designed around:
+
+- Deterministic validation
+- Auditable model interactions
+- Tool-call traceability
+- Policy enforcement
+- Access boundaries
+- Event-driven processing
+- Human approval paths
+- PII protection
+- Model monitoring
+- Data lineage
+- Risk-aware workflows
+
+---
+
+## LLM Inference & Model Systems
+
+Worked across model-serving and inference concerns involving:
+
+- Latency
+- Throughput
+- GPU utilization
+- Memory efficiency
+- Request scheduling
+- Batching
+- KV-cache management
+- Quantization
+- Multi-GPU execution
+- Distributed inference
+- Serving architecture
+- Cost per request
+
+I spend time thinking about the trade-offs between **model size, quantization, context length, GPU memory, throughput, latency and infrastructure cost**.
+
+---
+
+## Cloud HPC & Distributed Compute
+
+Worked on cloud-based HPC infrastructure for:
+
+- On-demand cluster provisioning
+- Compute environment orchestration
+- Cluster lifecycle management
+- Job execution
+- Job monitoring
+- Resource allocation
+- Multi-tenant environments
+- Infrastructure automation
+- Distributed workloads
+- Event-driven backend integration
+
+A lot of the challenge is making complex compute infrastructure manageable from the application layer.
+
+---
+
 # Tech Stack
 
 ## AI / LLM Engineering
@@ -102,17 +160,17 @@ It's deciding:
 
 ## Inference Engineering
 
-`vLLM` · `TensorRT-LLM` · `NVIDIA Triton` · `Continuous Batching` · `PagedAttention` · `KV Cache` · `Prefix Caching` · `Chunked Prefill` · `Speculative Decoding` · `Quantization` · `Tensor Parallelism` · `Pipeline Parallelism` · `Distributed Inference`
+`vLLM` · `TensorRT-LLM` · `NVIDIA Triton` · `Continuous Batching` · `PagedAttention` · `Paged KV Cache` · `KV Cache` · `KV-Cache Reuse` · `Prefix Caching` · `Chunked Prefill` · `Prefill / Decode Separation` · `Speculative Decoding` · `Quantization` · `Tensor Parallelism` · `Pipeline Parallelism` · `Expert Parallelism` · `Context Parallelism` · `Distributed Inference` · `Multi-GPU Serving` · `Inference Autoscaling`
 
-Focus areas:
+### Focus Areas
 
-`TTFT` · `TPOT` · `Throughput` · `Latency` · `GPU Utilization` · `Memory Efficiency` · `Cost per Request`
+`TTFT` · `TPOT` · `End-to-End Latency` · `Throughput` · `GPU Utilization` · `Memory Pressure` · `Batch Efficiency` · `Context Length` · `Request Scheduling` · `Cost per Request`
 
 ---
 
 ## MLOps / LLMOps
 
-`Model Serving` · `Model Registry` · `Experiment Tracking` · `Dataset Versioning` · `Prompt Versioning` · `Evaluation Pipelines` · `Model Monitoring` · `Tracing` · `Observability` · `A/B Testing` · `Regression Testing` · `CI/CD for AI`
+`Model Serving` · `Model Registry` · `Experiment Tracking` · `Dataset Versioning` · `Prompt Versioning` · `Evaluation Pipelines` · `Model Monitoring` · `Tracing` · `Observability` · `A/B Testing` · `Regression Testing` · `Model Routing` · `Rollbacks` · `CI/CD for AI`
 
 ---
 
@@ -122,13 +180,13 @@ Focus areas:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-`PyTorch` · `Transformers` · `Hugging Face` · `Tokenizers` · `Embeddings` · `Model Adaptation` · `Training Pipelines` · `Distributed Training`
+`PyTorch` · `TensorFlow` · `Transformers` · `Hugging Face` · `Tokenizers` · `Embeddings` · `Model Adaptation` · `Training Pipelines` · `Distributed Training`
 
 ---
 
 ## RAG & Knowledge Systems
 
-`Vector Search` · `Embeddings` · `Hybrid Search` · `Semantic Retrieval` · `Metadata Filtering` · `Reranking` · `Query Rewriting` · `Context Assembly` · `Grounded Generation` · `Retrieval Evaluation`
+`Vector Search` · `Embeddings` · `Hybrid Search` · `Semantic Retrieval` · `Metadata Filtering` · `Reranking` · `Query Rewriting` · `Context Assembly` · `Context Compression` · `Grounded Generation` · `Retrieval Evaluation` · `Citation / Provenance`
 
 ---
 
@@ -215,13 +273,45 @@ Focus areas:
 `Healthcare AI` · `FinTech AI` · `Regulated AI Systems` · `PHI / PII-Aware Workflows`
 
 ---
-## Long-Horizon Agents
+
+# Agentic AI Systems
+
+A large part of my current interest is in agents that do more than execute a single prompt → response cycle.
+
+I work with patterns around:
+
+- Long-horizon agent execution
+- Tool calling and tool orchestration
+- Agent harness design
+- State machines
+- Graph-based workflows
+- Conditional routing
+- Planning and execution loops
+- Supervisor / worker architectures
+- Multi-agent coordination
+- Human-in-the-loop approvals
+- Checkpointing and resumability
+- Retry and recovery strategies
+- Agent state persistence
+- Context management
+- Structured outputs
+- Tool permission boundaries
+
+The hard part usually isn't giving an agent access to tools.
+
+It's deciding:
+
+> **What is the agent allowed to do, what state should it remember, when should it stop, and how should the system recover when something fails halfway through?**
+
+---
+
+# Long-Horizon Agents
 
 Long-running agents introduce a different set of engineering problems than normal LLM applications.
 
-I think about things like:
+I think about them as:
 
-```text
+```text id="qtaccf"
 Goal
   ↓
 Planner
@@ -260,13 +350,11 @@ This is where agent engineering starts looking a lot like **distributed systems 
 
 ---
 
-## Graph & State-Machine Engineering
+# Graph & State-Machine Engineering
 
 I prefer explicit control flow for complex agents rather than hiding everything inside one autonomous loop.
 
-I work with concepts such as:
-
-```mermaid
+```mermaid id="rjdq9e"
 flowchart LR
     A[Input] --> B[Classify]
     B --> C{Route}
@@ -289,14 +377,14 @@ flowchart LR
 
 This gives the system clearer control over:
 
-- branching
-- retries
-- loops
-- tool execution
-- approvals
-- terminal states
-- failure states
-- state persistence
+- Branching
+- Retries
+- Loops
+- Tool execution
+- Approvals
+- Terminal states
+- Failure states
+- State persistence
 
 I like keeping the **reasoning probabilistic and the control plane explicit**.
 
@@ -306,7 +394,9 @@ I like keeping the **reasoning probabilistic and the control plane explicit**.
 
 Inference is one of the AI engineering areas I find particularly interesting.
 
-Once models are serving real workloads, the conversation becomes less about simply “hosting an LLM” and more about:
+Once models begin serving meaningful workloads, the problem becomes much bigger than simply hosting an LLM.
+
+I spend time thinking about:
 
 - **TTFT — Time to First Token**
 - **TPOT — Time per Output Token**
@@ -319,29 +409,50 @@ Once models are serving real workloads, the conversation becomes less about simp
 - Cost per request
 - Request scheduling
 
-Areas I work with and study include:
+Some of the inference problems and technologies I spend time on include:
+
+### Serving
 
 - vLLM
 - TensorRT-LLM
-- Triton Inference Server
+- NVIDIA Triton Inference Server
+- Distributed inference
+- Multi-GPU serving
+- Autoscaling inference workloads
+
+### Scheduling & Batching
+
 - Continuous batching
-- Paged KV cache
-- Prefix caching
-- KV-cache reuse
+- Request scheduling
 - Chunked prefill
+- Dynamic workload scheduling
 - Prefill / decode separation
-- Speculative decoding
+
+### Memory
+
+- PagedAttention
+- Paged KV cache
+- KV-cache reuse
+- Prefix caching
+- GPU memory utilization
+- Memory-aware scheduling
+
+### Model Optimization
+
 - Quantization
+- Speculative decoding
+- Model compression
+- Serving smaller / specialized models
+
+### Parallelism
+
 - Tensor parallelism
 - Pipeline parallelism
 - Expert parallelism
 - Context parallelism
-- Distributed inference
-- Multi-GPU serving
-- Autoscaling inference workloads
-- GPU memory utilization
+- Multi-node inference
 
-For me, inference engineering is essentially:
+For me, inference engineering comes down to:
 
 > **How much useful model work can we get from the available compute without destroying latency or cost?**
 
@@ -353,7 +464,7 @@ Not every problem needs a larger model.
 
 Sometimes the better answer is improving how a smaller or specialized model behaves for a particular task.
 
-My interests around model adaptation include:
+My work and interests around model adaptation include:
 
 - Supervised Fine-Tuning (**SFT**)
 - LoRA
@@ -383,9 +494,9 @@ It is:
 
 # RAG & Knowledge Systems
 
-I work with retrieval systems as an engineering problem rather than treating RAG as just:
+I work with retrieval systems as an engineering problem rather than treating RAG as simply:
 
-```text
+```text id="1x735m"
 embed → retrieve → prompt
 ```
 
@@ -464,7 +575,7 @@ Model behavior is only one part of an AI system.
 
 I also work around the lifecycle surrounding it:
 
-```text
+```text id="mr6f6j"
 Data
  ↓
 Training / Adaptation
@@ -515,7 +626,7 @@ A lot of AI workflows should not run inside a synchronous request.
 
 I work with architectures where AI tasks move through asynchronous pipelines:
 
-```mermaid
+```mermaid id="h2hmqe"
 flowchart LR
     A[API / Event] --> B[Queue]
     B --> C[Worker]
@@ -539,16 +650,16 @@ Examples include:
 
 Typical concerns include:
 
-- queues
-- workers
-- retries
-- dead-letter queues
-- idempotency
-- backpressure
-- event schemas
-- distributed state
-- observability
-- failure recovery
+- Queues
+- Workers
+- Retries
+- Dead-letter queues
+- Idempotency
+- Backpressure
+- Event schemas
+- Distributed state
+- Observability
+- Failure recovery
 
 ---
 
@@ -573,14 +684,14 @@ HPC has also influenced how I think about AI infrastructure.
 
 Modern AI systems increasingly deal with the same underlying questions:
 
-```text
+```text id="tcojpy"
 Compute
 Memory
 Networking
 Scheduling
 Parallelism
 Utilization
-Faults
+Failures
 Cost
 ```
 
@@ -607,9 +718,9 @@ Areas I work around include:
 - Human review
 - Governance controls
 
-Healthcare AI taught me that model capability alone is rarely enough.
+Healthcare AI has reinforced something important for me:
 
-**Data boundaries and system controls matter just as much.**
+**Model capability alone isn't enough. Data boundaries and system controls matter just as much.**
 
 ---
 
@@ -633,7 +744,7 @@ I focus on concepts such as:
 
 For regulated domains, I prefer designing systems where you can answer:
 
-```text
+```text id="m7iapc"
 What happened?
 Why did it happen?
 Which model was involved?
@@ -682,7 +793,7 @@ I prefer treating governance as something implemented **inside the architecture*
 
 Working across:
 
-`EC2` · `ECS` · `ECR` · `Lambda` · `S3` · `DynamoDB` · `IAM` · `CloudFormation` · `Bedrock`
+`EC2` · `ECS` · `ECR` · `Lambda` · `S3` · `DynamoDB` · `IAM` · `CloudFormation` · `Bedrock` · `CloudWatch`
 
 Areas:
 
@@ -699,11 +810,13 @@ Areas:
 Working across Azure for:
 
 - AI services
+- Azure OpenAI
 - Cloud infrastructure
 - Model deployment
 - Compute
 - Storage
 - Identity
+- Monitoring
 - Event-driven systems
 - AI workload integration
 
@@ -718,6 +831,7 @@ Working across Azure for:
 `RAG`  
 `Tool Calling`  
 `Long-Horizon Agents`  
+`Agent Harnesses`  
 `State Machines`  
 `Graph Workflows`  
 `Structured Outputs`  
@@ -732,6 +846,7 @@ Working across Azure for:
 `LoRA`  
 `QLoRA`  
 `PEFT`  
+`Instruction Tuning`  
 `Domain Adaptation`  
 `Synthetic Data`
 
@@ -741,13 +856,22 @@ Working across Azure for:
 
 `vLLM`  
 `TensorRT-LLM`  
-`Triton`  
+`NVIDIA Triton`  
 `Continuous Batching`  
-`KV Cache`  
+`PagedAttention`  
+`Paged KV Cache`  
+`KV-Cache Reuse`  
 `Prefix Caching`  
+`Chunked Prefill`  
+`Prefill / Decode Separation`  
 `Speculative Decoding`  
 `Quantization`  
-`Distributed Inference`
+`Tensor Parallelism`  
+`Pipeline Parallelism`  
+`Expert Parallelism`  
+`Context Parallelism`  
+`Distributed Inference`  
+`Multi-GPU Serving`
 
 ---
 
@@ -760,7 +884,9 @@ Working across Azure for:
 `Tracing`  
 `Observability`  
 `Model Versioning`  
-`Experiment Tracking`
+`Experiment Tracking`  
+`Model Registry`  
+`Evaluation Pipelines`
 
 ---
 
@@ -769,10 +895,12 @@ Working across Azure for:
 `AWS`  
 `Azure`  
 `Docker`  
+`Kubernetes`  
 `HPC`  
 `Distributed Systems`  
 `Event-Driven Architecture`  
-`GPU Compute`
+`GPU Compute`  
+`Infrastructure as Code`
 
 ---
 
@@ -788,7 +916,7 @@ Working across Azure for:
 
 # How I Think About AI Systems
 
-```text
+```text id="zkeb43"
                          ┌─────────────┐
                          │   Product   │
                          │   Problem   │
@@ -818,10 +946,10 @@ Working across Azure for:
                   │           │            │
                   └───────────┼────────────┘
                               ▼
-                       ┌─────────────┐
-                       │ Inference & │
-                       │ Infrastructure
-                       └─────────────┘
+                      ┌────────────────┐
+                      │ Inference &    │
+                      │ Infrastructure │
+                      └────────────────┘
 ```
 
 The model is important.
@@ -832,7 +960,7 @@ But the model is only one component.
 
 # Engineering Principles
 
-```python
+```python id="sosu5v"
 ai_engineering = {
     "agents": "Give autonomy clear boundaries.",
     "state": "Make important state explicit and recoverable.",
@@ -851,7 +979,7 @@ ai_engineering = {
 
 # Areas I'm Deepening
 
-```text
+```text id="s535v0"
 01. Agentic AI Systems
 02. Long-Horizon Agent Execution
 03. LLM Inference Engineering
@@ -873,7 +1001,7 @@ ai_engineering = {
 
 # Currently
 
-```yaml
+```yaml id="4ru8fv"
 working_on:
   - agentic AI systems
   - long-horizon workflows
@@ -905,7 +1033,7 @@ thinking_about:
 
 ---
 
-## GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
@@ -945,5 +1073,11 @@ thinking_about:
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariz565)
+
+<br/><br/>
+
+<sub>
+Models are only one part of the system. I enjoy engineering everything around them.
+</sub>
 
 </div>
