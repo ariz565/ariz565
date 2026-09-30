@@ -8,15 +8,26 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+systems+beyond+the+model;Agentic+AI+%C2%B7+Inference+%C2%B7+Fine-Tuning+%C2%B7+MLOps;HPC+%C2%B7+Event-Driven+Systems+%C2%B7+Cloud;Healthcare+AI+%C2%B7+FinTech+AI"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=950&lines=Engineering+AI+systems+from+models+to+infrastructure;Designing+agentic+systems+with+state%2C+tools+and+governance;Optimizing+LLM+inference%2C+MLOps+and+distributed+compute;Building+AI+for+Healthcare%2C+FinTech+and+high-scale+workloads"
     alt="Typing SVG"
   />
 </a>
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ariz565-181717?style=flat-square&logo=github)](https://github.com/ariz565)
-![Profile Views](https://komarev.com/ghpvc/?username=ariz565&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
+<p align="center">
+  <a href="https://github.com/ariz565">
+    <img
+      src="https://img.shields.io/badge/GitHub-ariz565-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=ariz565&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 </div>
 
