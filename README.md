@@ -1,177 +1,464 @@
- <!-- ## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" /> -->
-<h1 align="center">Hi , I'm Mohammad Ariz Aftab 👋</h1>
+<div align="center">
 
-<!-- ## <h3 align="center">Computer Science Enthusiast</h3> -->
+# Mohammad Ariz Aftab
 
-<p align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full-Stack+Problem+Solver;Exploring+the+Frontiers+of+AI;In+a+Constant+State+of+Learning" alt="Typing SVG" /></a>
-</p>
-<!-- Profile views -->
+### AI Engineer · Distributed Systems · LLMs · Agentic AI · HPC · Cloud
 
-<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=ariz565&label=Visitor%20Count&countColor=%23263759"> </p>
-<!--
-<div style="display: flex; align-items: center;">
-  <picture>
-    <img src="./about_me.gif" width="50px">
-  </picture>
-  <b style="margin-left: 10px;">About me</b>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Building+AI+systems+that+solve+useful+problems;Working+across+LLMs%2C+HPC+and+cloud+infrastructure;Designing+systems+from+backend+to+deployment;Always+learning%2C+building+and+improving"
+    alt="Typing SVG"
+  />
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ariz565-181717?style=flat-square&logo=github)](https://github.com/ariz565)
+![Profile Views](https://komarev.com/ghpvc/?username=ariz565&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
+
 </div>
--->
-
-# 💫 About Me:
-
-
-<img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
-</picture>
-
-👨‍💻 AI Engineer | Building AI workflows and Event driven backend systems | HPC · LLMs · Agentic AI · MLOps
-
-- **Experience:** 3+ years designing scalable backend architectures for **HPC platforms**, **LLM-powered systems**, and **cloud-native applications**.
-
-- **What I Do:**  
-  I architect and implement distributed systems that **spin up and manage cloud-based HPC clusters**, orchestrate **compute environments**, and automate **intelligent workflows** using large language models.
-
-- **Featured Work:**
-  - Architected a multi-tenant HPC environment on AWS to **provision and orchestrate on-demand HPC clusters**. Includes real-time job monitoring and cluster lifecycle management.
-  - Designed a backend system powered by **RAG and LLMs** to automate **data extraction, field validation, and summarization** from structured and unstructured documents.
-  - Developed a cross-account AWS cost monitoring solution that **aggregates billing data**, and supports **budget tracking, tagging, and reporting** for cost optimization.
-  - Engineered a high-performance, SEO-optimized e-commerce platform using Next.js (SSR/SSG), with Redis caching, a recommendation engine, and secure order workflows powered by Razorpay and Cloudinary.
-
-
-- **Currently Exploring:**  
-  Autonomous agents that integrate with meetings to generate context-aware notes, file Jira tickets, and send follow-up emails with zero manual effort.
-
-- **Tech Stack:**  
-  Python · Flask · Node.js · Spring Boot · React · Next.js  
-  AWS (EC2, Lambda, DynamoDB, S3, Bedrock, CloudFormation, ECS, ECR) · Docker · GitHub Actions · REST APIs · IAM · CI/CD
 
 ---
 
+## About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+> **“I like building systems where software, infrastructure and AI come together.”**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+I'm an **AI Engineer with 3+ years of experience** working across backend engineering, cloud infrastructure, HPC and LLM-based applications.
 
-<p align="center">
+Most of my work has involved taking an idea, understanding how the pieces should fit together, and building the backend and infrastructure around it.
 
-- **Languages**:
-    
+I've worked on systems for:
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=oraclejava&logoColor=white" alt="Java">
-<!--     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> -->
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+- Cloud-based HPC cluster provisioning
+- LLM and RAG workflows
+- Document extraction and validation
+- Event-driven backend services
+- AWS automation
+- Cost monitoring across AWS accounts
+- Full-stack and e-commerce platforms
+
+I enjoy problems where there is more going on than just writing an API or calling a model.
+
+The interesting part for me is usually figuring out how the **backend, infrastructure, data, AI and user workflow** should work together.
+
+---
+
+## What I Work On
+
+### AI & LLM Systems
+
+A lot of my recent work has been around LLM-based applications and automation.
+
+I've worked on:
+
+- Retrieval-Augmented Generation (**RAG**)
+- Document data extraction
+- Field validation
+- Summarization workflows
+- Prompt and context handling
+- AWS Bedrock integrations
+- AI-powered backend APIs
+- Agent-style workflows
+- Human approval steps inside automated processes
+
+I usually think of the model as one part of the system.
+
+The bigger challenge is deciding what happens **before the model, after the model, and when the model gets something wrong**.
+
+---
+
+### Backend & Distributed Systems
+
+Backend engineering has been a major part of my work.
+
+I've built and worked with:
+
+- Event-driven architectures
+- REST APIs
+- Async workflows
+- Background jobs
+- Multi-service applications
+- Authentication and authorization
+- Multi-tenant systems
+- Cloud resource orchestration
+- Compute lifecycle management
+
+I enjoy designing systems where responsibilities are clear and each service has a reason to exist.
+
+---
+
+### High-Performance Computing
+
+One of the more interesting areas I've worked in is **cloud HPC**.
+
+I helped build a multi-tenant system that can provision and manage HPC environments on AWS.
+
+The work included:
+
+- Creating HPC clusters on demand
+- Managing cluster lifecycle
+- Orchestrating compute environments
+- Tracking running jobs
+- Supporting multiple users and environments
+- Automating infrastructure creation and cleanup
+
+A lot of the challenge was making complicated cloud infrastructure easier to manage from the application layer.
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud HPC Platform
+
+Worked on a **multi-tenant HPC platform on AWS** that could create and manage compute clusters when needed.
+
+**What I worked on**
+
+- Cluster provisioning
+- Compute environment orchestration
+- Cluster lifecycle handling
+- Job monitoring
+- Multi-tenant architecture
+- AWS service integrations
+
+**Tech / Areas**
+
+`AWS` `HPC` `Distributed Systems` `Backend`
+
+</td>
+
+<td width="50%" valign="top">
+
+### LLM Document Processing
+
+Designed a backend workflow using **RAG and LLMs** to process structured and unstructured documents.
+
+**What it handled**
+
+- Data extraction
+- Field validation
+- Context retrieval
+- Summarization
+- API workflows
+- LLM orchestration
+
+**Tech / Areas**
+
+`Python` `LLMs` `RAG` `AWS Bedrock`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AWS Cost Monitoring
+
+Built a cross-account AWS cost monitoring system to bring billing information from different accounts into one place.
+
+**What it included**
+
+- Cost aggregation
+- Budget tracking
+- Tag-based reporting
+- Cross-account access
+- Reporting workflows
+- Cost visibility
+
+**Tech / Areas**
+
+`AWS` `Cloud` `Automation` `FinOps`
+
+</td>
+
+<td width="50%" valign="top">
+
+### E-commerce Platform
+
+Built a performance-focused e-commerce application using **Next.js** with caching, recommendations and payment integrations.
+
+**What it included**
+
+- Next.js SSR / SSG
+- Redis caching
+- Product recommendation logic
+- Razorpay payments
+- Cloudinary integration
+- Order workflows
+- SEO improvements
+
+**Tech / Areas**
+
+`Next.js` `Redis` `Razorpay` `Cloudinary`
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Exploring Now
+
+I'm currently interested in building agents that can take part in day-to-day work instead of only answering questions.
+
+One idea I'm exploring is a meeting assistant that can:
+
+```mermaid
+flowchart LR
+    A[Meeting] --> B[Agent]
+    B --> C[Understand Context]
+    C --> D[Generate Notes]
+    C --> E[Create Jira Tasks]
+    C --> F[Draft Follow-up Emails]
+    C --> G[Update Knowledge Base]
+```
+
+The part I find interesting is not just generating the notes.
+
+It's figuring out:
+
+- What should happen automatically?
+- What should require approval?
+- How should context be carried between steps?
+- What happens if one tool call fails?
+- How do you stop the agent from doing too much?
+- How do you keep a clear history of what it changed?
+
+Those are the kinds of problems I'm spending more time on.
+
+---
+
+# Tech Stack
+
+## AI / LLM
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-172554?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-<br>   
-    
-- **Front-end Development**:
+`LLMs` · `RAG` · `Agentic Workflows` · `Document Processing` · `AWS Bedrock`
+
+---
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+`Python` · `Java` · `JavaScript` · `TypeScript`
+
+---
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,spring" />
+</p>
+
+`Flask` · `Django` · `Node.js` · `Express.js` · `Spring Boot` · `REST APIs`
+
+---
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+`React` · `Next.js` · `Tailwind CSS`
+
+---
+
+## Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+**AWS**
+
+`EC2` · `Lambda` · `DynamoDB` · `S3` · `Bedrock` · `ECS` · `ECR` · `CloudFormation` · `IAM`
+
+**Other**
+
+`Docker` · `HPC` · `Cloud Automation` · `Multi-account AWS`
+
+---
+
+## Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
+</p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase` · `Redis`
+
+---
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma" />
+</p>
+
+`Git` · `GitHub` · `GitHub Actions` · `Postman` · `Jira` · `VS Code`
+
+---
+
+## How I Approach Engineering
+
+I usually think about a system in this order:
+
+```text
+Problem
+   ↓
+Users / Workflow
+   ↓
+Architecture
+   ↓
+Data
+   ↓
+Backend
+   ↓
+AI / LLM
+   ↓
+Infrastructure
+   ↓
+Monitoring
+   ↓
+Iteration
+```
+
+For AI projects especially, I try not to start with:
+
+> “Which model should we use?”
+
+I prefer starting with:
+
+> “What problem are we actually trying to solve, and where does AI genuinely help?”
+
+That usually leads to better systems.
+
+---
+
+## A Few Things I've Learned
+
+```python
+engineering_notes = {
+    "architecture": "Simple systems are easier to understand and easier to change.",
+    "ai": "LLMs are useful, but they should not be trusted with everything.",
+    "cloud": "Automate infrastructure when the same manual step happens twice.",
+    "performance": "Measure first. Optimize second.",
+    "security": "Give every service only the access it actually needs.",
+    "backend": "Clear boundaries save a lot of pain later.",
+    "automation": "Automate repetitive work, not human judgment."
+}
+```
+
+---
+
+## Areas I'm Interested In
+
+```text
+01. LLM Applications
+02. RAG
+03. AI Agents
+04. Distributed Systems
+05. Event-Driven Architecture
+06. High-Performance Computing
+07. AWS
+08. Backend Engineering
+09. Infrastructure Automation
+10. AI Evaluation
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge"> -->
-  <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge">
-  <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge">
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariz565&theme=github_dark"
+/>
+
+<br/><br/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ariz565&theme=github-dark-blue&hide_border=true"
+/>
+
+<br/>
+
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariz565&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+/>
+
 </div>
 
+---
 
-<br>
+## Currently
 
-- **Back-end Development**:
+```yaml
+working_on:
+  - AI and LLM backend systems
+  - distributed applications
+  - cloud HPC platforms
+  - workflow automation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-  <img src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-</p>
+exploring:
+  - meeting agents
+  - tool-using AI agents
+  - context management
+  - LLM evaluation
+  - event-driven AI workflows
 
-<br>
+learning_more_about:
+  - system design
+  - AI reliability
+  - cloud cost
+  - observability
+  - distributed systems
+```
 
-- **Databases**:
-
-<p align="center">
-    <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-     <img src="https://img.shields.io/badge/PostgreSQL-31658D?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-</p>
-
-<br>
-
-- **Containerization**:
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-
-<br>
-
-- **Cloud Hosting**:
-
-<p align="center">
- <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  
-</p>
-
-<br>
-
-- **Softwares and Tools**:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
- <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-</p>
-
-<br>
-
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+---
 
 <div align="center">
- <p>
-  <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariz565&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
-</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariz565&theme=radical&hide_border=false)
+### I enjoy building things, understanding how they work, and making them better.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariz565&theme=radical&layout=compact)
+<br/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=radical">
- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ariz565&show_icons=true&theme=radical">
-</a>
+**AI · Backend · HPC · Distributed Systems · AWS**
 
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<br>
-## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariz565)
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz565" alt="ariz565" /></a> </p>
+<br/><br/>
 
-- 🔭 I’m currently working on **GradNetwork**
+<sub>
+Currently building at the intersection of AI, backend systems and cloud infrastructure.
+</sub>
 
-- 🌱 I’m currently learning **Back-End Development**
-
-- 💬 Ask me about **Programming Languages, Algorithms and Data Structures**
-
-<h3 align="left">Connect with me:</h3> -->
-
+</div>
